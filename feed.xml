@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>William Herrera</title>
+    <link href="https://william-herrera.github.io/williamherrera/feed.xml" rel="self" />
+    <link href="https://william-herrera.github.io/williamherrera" />
+    <updated>1969-12-31T19:00:00-05:00</updated>
+    <author>
+        <name>William Humberto Herrera Rey</name>
+    </author>
+    <id>https://william-herrera.github.io/williamherrera</id>
+
+</feed>

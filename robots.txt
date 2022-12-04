@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://william-herrera.github.io/williamherrera/sitemap.xml
